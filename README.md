@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattjkenney
-- 👀 I’m interested in data science, python programming, auotmation, inventory management, and lean six sigma manufacturing
-- 🌱 I’m currently learning how to edit pdf files with python
-- 💞️ I’m looking to collaborate on inventory management software designed with lean six sigma principles in mind for the manufacturing sector
+- 👀 I’m interested in data science, machine learning, ai, and how they can be used in the motor, generator, and gearbox industry
+- 🌱 I’m currently working on a custom UI for automating lot sampling and testing of replacement parts
 - 📫 How to reach me ...
   -   📱 609-432-0410
   -   📧 mattjkenney@protonmail.com
