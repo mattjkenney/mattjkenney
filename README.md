@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mattjkenney
 - 👀 I’m interested in data science, machine learning, ai, and how they can be used in the motor, generator, and gearbox industry
-- 🌱 I’m currently,
-  - writing an article for publication on my Naive Bayes classifier @/bearingDefectLocator for the Vibration Institue,
-  - publishing my number approximation code to PyPI @/number_approximations, and
-  - learning more about building SaaS applications with Flask
+- 🌱 I’m currently working on,
+  - designing an ETL app that allows users to create and save processes to convert data on csv files into custom reports
+  - learning about publishing my number approximation code to PyPI @/number_approximations, and
+  - learning more about building SaaS applications with
 - 📫 How to reach me ...
   -   📱 609-432-0410
   -   📧 mattjkenney@protonmail.com
